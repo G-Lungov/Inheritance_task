@@ -5,6 +5,7 @@ public class Dog {
 
     public String color;
 
+
     public String bark() {
         return "Bark bark!";
     }
